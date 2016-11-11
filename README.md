@@ -210,6 +210,7 @@ Works with Maintaince Department to ensure all expenses are catigorized and
 
 ####Vendor Aqusition:
 How to find a vendor
+
 1. Create a list for each region
 2. Research - Seach for Vendors
 	2a. Ask on biggerpockets.com for references

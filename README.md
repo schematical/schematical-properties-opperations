@@ -6,6 +6,9 @@
 - Once a month company wide standup meeting(Consulting + Real Estate?)
 
 
+THIS IS A PUBLIC WIKI. No credentials, specifically identifiable information, property details, financials, client information confidential or not should be stored in this document/wiki.
+
+
 
 
 ###Market Research Department:
@@ -28,11 +31,6 @@
 3. Put an offer on a property(with Inspection and Financing clases)
 4. Work with Vendor(Inspector/Contractor) to do inspection
 5. If all the numbers add up pass it to the purchasing
-
-
-
-
-
 
 
 
@@ -121,7 +119,10 @@ Recurring (Weekly?) meeting
 
 
 ####Monthly:
-Take rent - Report to The Finance Department
+#####1st of each Motnt - Take rent:
+* Report to The Finance Department
+
+#####
 Report Issues
 Check to see which Tenant’s lease is expiring when
 Check-in with tenants

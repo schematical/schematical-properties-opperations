@@ -15,9 +15,9 @@
 
 2. Run numbers on properties
 
-	* Put together rough tax, loan, insurance numbers
-	* Bigger pockets calc
-	* If numbers add up continue
+	1. Put together rough tax, loan, insurance numbers
+	2. Bigger pockets calc
+	3. If numbers add up continue
 	
 3. Put an offer on a property(with Inspection and Financing clases)
 4. Work with Vendor(Inspector/Contractor) to do inspection
@@ -43,9 +43,9 @@ These guys buy and sell properties. Works with Lenders, Insurance
 4. Presnet to the lenders
 5. Work with title company to complete the deal
 6. On completion of the deal 
-	a. Notify other departments 
-	b. If a rehab hand off  the property to Construction/Maintaince
-	c. If no rehab hand off the property to managment 
+	1. Notify other departments 
+	2. If a rehab hand off  the property to Construction/Maintaince
+	3. If no rehab hand off the property to managment 
 
 
 
@@ -213,12 +213,12 @@ How to find a vendor
 
 1. Create a list for each region
 2. Research - Seach for Vendors
-	2a. Ask on biggerpockets.com for references
-	2b. Ask our regional contacts/mentors/existing vendors for refrences
+	1. Ask on biggerpockets.com for references
+	2. Ask our regional contacts/mentors/existing vendors for refrences
 3. Check References - Get references from Call all references, 
-	3a. If a business: check with the better business buero
-	3b. If an individual: do a background check
-	3c. If possible do both
+	1. If a business: check with the better business buero
+	2. If an individual: do a background check
+	3. If possible do both
 4. Approvial - ??Right now this will require Matt's approvial but this will be deligated to the Director of Vendor Aqusitions
 5. Create a file. This file will record all activity with this Vendor. After each interaction notes on the quality, professionalisim, punctionality and cost of each vendor should be stored here
 5. Contracts - Work with Legal Department to get contracts signed. Our contracts are prefered. 3rd party contracts must be approved by Legal(!!FOR NOW ONLY MATT SIGNS CONTRACTS!!!)

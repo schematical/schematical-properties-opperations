@@ -6,7 +6,9 @@ These guys buy and sell properties. Works with Lenders, Insurance
 
 
 ####Purchasing a property found from above: 
-1. Check with the Finance Department to see if this property is actionable. If not shelve or refer out(Document Refer Out). If so continue.
+1. Check with the Finance Department to see if this property is actionable. 
+    * If not shelve or refer out(Document Refer Out). 
+    * If so continue.
 2. Notify other departments so they have time to get the vendors and management in order
 3. Put together a Property Acquisition Presentation for the lenders
 4. Present to the lenders

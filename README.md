@@ -5,16 +5,19 @@
 - Once a month company wide standup meeting(Consulting + Real Estate?)
 
 
-###Finding and Assessing Properties:
+###Market Research Department:
+
+####Finding and Assessing Properties:
 1. Find properties
-	1a. Bots
-	1b. Manual research
-	1c. Outgoing
+	..a. Bots
+	..b. Manual research
+	..c. Outgoing
 
 2. Run numbers on properties
-	2a. Put together rough tax, loan, insurance numbers
-	2b. Bigger pockets calc
-	2c. If numbers add up continue
+
+	..a. Put together rough tax, loan, insurance numbers
+	..b. Bigger pockets calc
+	..c. If numbers add up continue
 	
 3. Put an offer on a property(with Inspection and Financing clases)
 4. Work with Vendor(Inspector/Contractor) to do inspection
@@ -34,15 +37,15 @@ These guys buy and sell properties. Works with Lenders, Insurance
 
 
 ####Purchasing a property found from above: 
--1. Check with the Finance Department to see if this property is actionable. If not shelve or refer out(Docuemnt Refer Out). If so continue.
-0. Notify other departments so they have time to get the vendors and managment in order
-1. Put together a Property Aqusition Presentation for the lenders
-2. Presnet to the lenders
-3. Work with title company to complete the deal
-4. On completion of the deal 
-	4a. Notify other departments 
-	4b. If a rehab hand off  the property to Construction/Maintaince
-	4c. If no rehab hand off the property to managment 
+1. Check with the Finance Department to see if this property is actionable. If not shelve or refer out(Docuemnt Refer Out). If so continue.
+2. Notify other departments so they have time to get the vendors and managment in order
+3. Put together a Property Aqusition Presentation for the lenders
+4. Presnet to the lenders
+5. Work with title company to complete the deal
+6. On completion of the deal 
+	..a. Notify other departments 
+	..b. If a rehab hand off  the property to Construction/Maintaince
+	..c. If no rehab hand off the property to managment 
 
 
 

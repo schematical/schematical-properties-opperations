@@ -9,15 +9,15 @@
 
 ####Finding and Assessing Properties:
 1. Find properties
-	..a. Bots
-	..b. Manual research
-	..c. Outgoing
+	1. Bots
+	2. Manual research
+	3. Outgoing
 
 2. Run numbers on properties
 
-	..a. Put together rough tax, loan, insurance numbers
-	..b. Bigger pockets calc
-	..c. If numbers add up continue
+	* Put together rough tax, loan, insurance numbers
+	* Bigger pockets calc
+	* If numbers add up continue
 	
 3. Put an offer on a property(with Inspection and Financing clases)
 4. Work with Vendor(Inspector/Contractor) to do inspection
@@ -43,9 +43,9 @@ These guys buy and sell properties. Works with Lenders, Insurance
 4. Presnet to the lenders
 5. Work with title company to complete the deal
 6. On completion of the deal 
-	..a. Notify other departments 
-	..b. If a rehab hand off  the property to Construction/Maintaince
-	..c. If no rehab hand off the property to managment 
+	a. Notify other departments 
+	b. If a rehab hand off  the property to Construction/Maintaince
+	c. If no rehab hand off the property to managment 
 
 
 

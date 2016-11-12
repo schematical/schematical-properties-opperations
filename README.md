@@ -54,19 +54,26 @@ Being "irreplacable" is not an asset in this business.
 Everyone needs a vacation from time to time and you will need someone to fill in for them.
 
 
-#####How I  will combat this:
+#####Firedrills: How I  will combat this:
 I WILL FORCE YOU TO TAKE A VACATION from time to time. 
 That is right.
 FIREDRILLS - TODO FINISH THIS
 
+####Starting out:
+Like I said above we are only a 1-2 person show right now. So why define an opperations manual that has a dozen or more roles?
+Because I am planning for growth. Right now every role and process in this opperations manual will be on my(Matt's) shoulders. 
+As we grow and bring on new people having roles and responsibilitys clearly defined will allow me to bring on new people and pass off those responsiblities easier.
+
+
+
+
 
 ##Directors and Departments:
 As we grow we will need to divide up in to specialized divisions of labor to be more effecent. 
-My intented goal is not to create silos but to create more clearly defined roles and communication procedures so that we can be more efficent and allow our specialists to focus on their craft.
+My intented goal is not to create silos but to create more clearly defined roles and communication procedures so that we can allow our specialists to focus on their craft.
 
 
-
-
+###Director Roles:
 Directors are in charge of scheduling the various meetings and tasks unless otherwise noted
 
 Directors are the key communication people. When a task states "Communicate with XXX Department" that means the director unless some one else has been directly deligated. For example Property Managment Department may have a regional lead or a property lead.

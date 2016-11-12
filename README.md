@@ -29,8 +29,44 @@ THIS IS A PUBLIC WIKI. No credentials, specifically identifiable information, pr
 
 ##Using this wiki:
 
+####When to bend the rules and when to break them:
+Most of this document is more like a guid lines that we can use as a starting point. 
+This means that often times you will variate from the steps provided. 
+Life happens, metaphorical fires will need to be put out, weird one off circumstances will come up, use your best judgment on when to _'go off script'_.
+In reality I fully expect each and every member of our team to go above and beyond to make the company better as a whole.
+
+There are certain rules that are not meant to be broken. I will try and note these by putting them in all CAPITAL LETTERS.
+
+####This is a living document:
+As we progress and learn from our mistakes we will find better ways to implement these processes. You as a team member will be on the front lines. 
+If you find that I or your director have ommitted a step that would improve any of these proceeses let us know. If you find a step that is redundant please feel free to discuss it with us.
+Keep in mind that as I write this I am no top knotch Real Estate Investor, I am learning and am glad to have your help in improving every step of the processes we use to run our business.
+
+####Let no one paint them selfs into a corner:
+For our business or any business to function all parts must be replacable. That includes me(Matt). 
+As I write this(11/15/2016) I personaly will be responsible for carrying out every single role and process documented here. 
+As we grow I will begin to replace myself with all of you nice people that are reading this in order to run the company.
+As we grow further you will want to replace yourselves with others so you can move to a diretor position.
+We must all be teachers in this organization. Training each other so that we can share the work load. 
+No one wants to be on mantiance call 24/7.
+I doubt when we have properties in multiple cities/states that any one person can do property managment on the multiple regions.
+Being "irreplacable" is not an asset in this business.
+Everyone needs a vacation from time to time and you will need someone to fill in for them.
+
+
+#####How I  will combat this:
+I WILL FORCE YOU TO TAKE A VACATION from time to time. 
+That is right.
+FIREDRILLS - TODO FINISH THIS
+
 
 ##Directors and Departments:
+As we grow we will need to divide up in to specialized divisions of labor to be more effecent. 
+My intented goal is not to create silos but to create more clearly defined roles and communication procedures so that we can be more efficent and allow our specialists to focus on their craft.
+
+
+
+
 Directors are in charge of scheduling the various meetings and tasks unless otherwise noted
 
 Directors are the key communication people. When a task states "Communicate with XXX Department" that means the director unless some one else has been directly deligated. For example Property Managment Department may have a regional lead or a property lead.
